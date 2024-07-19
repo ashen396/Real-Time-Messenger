@@ -1,0 +1,62 @@
+.msg-box{
+    width: 80% !important;
+    margin:auto;
+    margin-bottom: 10px;
+}
+
+.msg-btn{
+    width: 90% !important;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.msg-panel{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+.logout-btn{
+    max-width: 150px;
+}
+
+#msgs-container{
+    display: block;
+    max-height: 500px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+ul{
+    display: block;
+}
+
+ul>li{
+    list-style: none;
+}
+
+ul>li>p:nth-child(1){
+    font-size: 14px;
+    color: rgb(133, 133, 133);
+}
+
+ul>li>p:nth-child(2){
+    color:white;
+    background-color: rgb(76, 109, 220);
+    padding: 10px;
+    border-radius: 50px;
+    min-width: 80px;
+    text-align: center;
+    width: fit-content;
+}
+
+.usr-msg{
+    float:right;
+    clear: both;
+    margin-right: 0px;
+}
+
+.usr-msg>p:nth-child(2){
+    background-color: rgb(133, 237, 133) !important;
+}
