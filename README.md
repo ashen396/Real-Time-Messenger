@@ -1,5 +1,11 @@
 # Real-Time-Messenger
 
+This application uses React with Express and Node.js. The server and client both included. Socket.IO is used for the communication between clients.
+
+Express with NodeJS is used for the server. It listens for any requests made combined with Socket.IO for real-time communication.
+
+Socket.IO Client is used with React for retrieval and sending of messages.
+
 Clone the git repository and navigate to the file system
 
 Two sub-directories named as server and websushi will be visible
