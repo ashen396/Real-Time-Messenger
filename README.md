@@ -49,3 +49,14 @@ Remember the username will be the logged in user
 
 If the user logins successfully, try opening another window on the browser and login in with a different username
 Type something and try chatting with each other
+
+
+# Chat Page
+
+Multiple users can chat with each other
+
+Self messages are displayed to the right with a green bubble and mentione as 'Me' on top
+
+Messages received are displayed to the left with a blue bubble and name on top of the message
+
+Users can sign out and login with another user name with button next to the username on top
