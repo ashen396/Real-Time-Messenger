@@ -24,7 +24,7 @@ Navigate back the folder structure to the websushi folder
 
 Open another console and type:
 
-   npm install
+    npm install
 
 # Start Client
 
