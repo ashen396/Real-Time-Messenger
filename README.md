@@ -8,13 +8,13 @@ Two sub-directories named as server and websushi will be visible
 
 Navigate to the server folder and open command prompt or terminal from the folder and type:
 
-npm install
+    npm install
 
 # Start Server
 
 Once all the dependencies are installed, type in the console:
 
-  node App.js
+    node App.js
 
 If the server runs, no errors will pop up in the console
 
@@ -37,7 +37,7 @@ It will a open browser window
 
 If the browser window does not open, try opening a browser and typing in the url
 
-   localhost:3000
+    localhost:3000
 
 # Login Page
 
